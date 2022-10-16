@@ -8,3 +8,7 @@ title: Home
  <b>Under construction</b>
   This document may not contain the information you're looking for.
   </div>
+
+## All pages
+- [Home](#)
+- [Getting started - Home](./getting-started/)
