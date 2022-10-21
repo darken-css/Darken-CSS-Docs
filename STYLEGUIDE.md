@@ -2,14 +2,14 @@
 This contains a comprehensible style guide for all files to
 follow.
 
-## Naming
+## Naming (Referenced in code review as R-1)
 Darken CSS is **always** Darken CSS and not something else.
 Do not ever use Darken-CSS, **unless** linking to our GitHub
 organization or on our repositories.
 
 Do not also use Dark CSS, as it's not the official name.
 
-## Using capitals often
+## Using capitals often (Referenced in code review as R-2)
 Don't use capitals in a sentence like this:
 
 "This is our GitHub **Organization Link**:
