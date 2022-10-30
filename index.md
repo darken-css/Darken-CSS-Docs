@@ -13,7 +13,7 @@ Darken CSS is a CSS file that sets a simple dark mode on your website.
 
 We are open source on [GitHub](https://github.com/darken-css).
 
-Check out our [Getting Started](./getting-started/) guide to include it!
+Check out our [Getting Started](./getting-started/) section to include it!
 
 ## All pages
 - [Home](#)
